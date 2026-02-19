@@ -67,7 +67,7 @@
 - Extend analysis to inflation and unemployment
 - Other
 
-**7. Conclusion (and further improvements)**
+**7. Conclusion**
 
 **Appendix 1**
 - Export Price shock IRFs - Sign Restrictions, Minnesota prior - Cross country effect with cubic (spline) calendarization
@@ -95,6 +95,7 @@
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
 
 **References**
+
 
 
 
