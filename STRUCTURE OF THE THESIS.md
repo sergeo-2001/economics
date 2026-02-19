@@ -18,7 +18,7 @@
 
 **3. Data, softwares and packages**
 - Software and packages (python, R, GitHub)
-- Packages (python: [denton](https://github.com/MaxLugo/denton), [UnivariateSpline](https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.UnivariateSpline.html), [statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.filters.hp_filter.hpfilter.html); python: [bsvarSIGNs](https://github.com/bsvars/bsvarSIGNs), [plotly](https://github.com/plotly/plotly.py)
+- Packages (python: [denton](https://github.com/MaxLugo/denton), [UnivariateSpline](https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.UnivariateSpline.html), [statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.filters.hp_filter.hpfilter.html); python: [bsvarSIGNs](https://github.com/bsvars/bsvarSIGNs), [plotly](https://github.com/plotly/plotly.py))
 - Time period (January 2001 - December 2019)
 - Sources of data
 - Countries [Argentina, Brasil, Chile, Colombia, Ecuador, Mexico, Peru, Venezuela]
@@ -95,5 +95,6 @@
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
 
 **References**
+
 
 
