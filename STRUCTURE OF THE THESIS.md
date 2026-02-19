@@ -18,25 +18,35 @@
 
 **3. Data, softwares and packages**
 - Software and packages (python, R, GitHub)
-- Packages (python: [denton](https://github.com/MaxLugo/denton), [UnivariateSpline](https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.UnivariateSpline.html), [statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.filters.hp_filter.hpfilter.html); python: [bsvarSIGNs](https://github.com/bsvars/bsvarSIGNs), [plotly](https://github.com/plotly/plotly.py))
+- Packages
+  [python: [denton](https://github.com/MaxLugo/denton), [UnivariateSpline](https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.UnivariateSpline.html), [statsmodels](https://www.statsmodels.org/stable/generated/statsmodels.tsa.filters.hp_filter.hpfilter.html); python: [bsvarSIGNs](https://github.com/bsvars/bsvarSIGNs), [plotly](https://github.com/plotly/plotly.py)]
 - Time period (January 2001 - December 2019)
 - Sources of data
-- Countries [Argentina, Brasil, Chile, Colombia, Ecuador, Mexico, Peru, Venezuela]
-- Variables [Bayesian VAR: Real GDP, Export price level (country), Net capital inflows (Direct investments, Portfolio equity investments, Portfolio debt investments, Other investments), Foreign reserves, Policy rate, EMBI spread, Real effective exchange rate; BAA spread; Export volume of (Latin America), Export Price level (Latin America), World activity (Latin America); Bubble charts: Governance quality, Institutional quality, Net capital inflows, GDP growth]
-- Frequency [annual, quarterly, monthly -> monthly]
-- Data-type (percentages, levels or indexes)
-- Cleaning data [cubic (spline) interpolation of missing values, calendarization and benchmarking through Denton proportional method, log-linearisation (when needed), HP filtering]
+- Countries
+  [Argentina, Brasil, Chile, Colombia, Ecuador, Mexico, Peru, Venezuela]
+- Variables
+  [Bayesian VAR: Real GDP, Export price level (country), Net capital inflows (Direct investments, Portfolio equity investments, Portfolio debt investments, Other investments), Foreign reserves, Policy rate, EMBI spread, Real effective exchange rate; BAA spread; Export volume of (Latin America), Export Price level (Latin America), World activity (Latin America); Bubble charts: Governance quality, Institutional quality, Net capital inflows, GDP growth]
+- Frequency
+  [annual, quarterly, monthly -> monthly]
+- Data-type
+  [percentages, levels, indexes]
+- Cleaning data
+  [cubic (spline) interpolation of missing values, calendarization and benchmarking through Denton proportional method, log-linearisation (when needed), HP filtering]
 
 **4. Model**
-- Introduction to the model - Bayesian VAR Sign Restrictions [empirical method, sign restriction dentification, Minnesota prior, narrative restrictions]
-- Some algebra [SVAR, reduced form, structural shocks, constraint]
-- Priors and hyper-parameters [calibration (rule of thumb)]
+- Introduction to the model - Bayesian VAR Sign Restrictions
+  [empirical method, sign restriction dentification, Minnesota prior, narrative restrictions]
+- Some algebra
+  [SVAR, reduced form, structural shocks, constraint]
+- Priors and hyper-parameters
+  [calibration (rule of thumb)]
 - Definition of the events for the narrative restrictions
 
 **5. Results**
     
   **5.1 Export price shock**
-- Tests [lag length tests (AIC, HQ, SC, FPE), unit root test (ADF), constant]
+- Tests
+  [lag length tests (AIC, HQ, SC, FPE), unit root test (ADF), constant]
 - Export Price shock IRFs - Sign Restrictions, Minnesota prior - Cross country effect
   [restrictions: + Export price level (country), + Real effective exchange rate, - Policy rate]
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
@@ -95,6 +105,7 @@
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
 
 **References**
+
 
 
 
