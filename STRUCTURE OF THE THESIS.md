@@ -56,7 +56,7 @@
   [restrictions: - BAA spread, + Activity (Latin America), + Real effective exchange rate, - Policy rate]
   [no restrictions: Export volume of (Latin America), Export Price level (Latin America), Real GDP, Export price level (country), Net capital inflows, Foreign reserves, EMBI spread]
 
-**5.3 Exploratry analysis on growth, export price level and institutional and governance quality**
+**5.3 Exploratory analysis on growth, export price level and institutional and governance quality**
 - 2D bubbble charts - static
   [bubble size: standard deviation GDP growth; y axis: mean GDP growth, x axis: mean Governance quality/mean Institutional quality/standard deviation Net capital inflows]
 - 3D bubble charts - dynamic ([github.io](https://sergiocarosio.github.io/economics/))
@@ -95,6 +95,7 @@
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
 
 **References**
+
 
 
 
