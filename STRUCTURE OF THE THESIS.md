@@ -87,31 +87,35 @@
 - Countries with highest levels of GDP in the period 2001-2024
 
 **Appendix 2**
+- Stationarity of observations check
+
+**Appendix 3**
 - Export Price shock IRFs - Sign Restrictions, Minnesota prior - Cross country effect with cubic (spline) calendarization
   [restrictions: + Export price level (country), + Real effective exchange rate, - Policy rate]
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
 
-**Appendix 3**
+**Appendix 4**
 - Export Price shock IRFs - Sign Restrictions - Cross country effect without shrinkage
   [restrictions: + Export price level (country), + Real effective exchange rate, - Policy rate]
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
 
-**Appendix 4**
+**Appendix 5**
 - Export Price shock IRFs - Sign Restrictions, Minnesota prior, Narrative restrictions - Cross country effect taking into account historical events (2008 financial crisis)
   [restrictions: + Export price level (country), + Real effective exchange rate, - Policy rate]
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
 
-**Appendix 5**
+**Appendix 6**
 - Export Price shock IRFs - Sign Restrictions, Minnesota prior, Narrative restrictions - Focus on Argentina taking into account historical events (2001 Argentinian crisis, 2008 financial crisis)
   [restrictions: + Export price level (country), + Real effective exchange rate, - Policy rate]
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
 
-**Appendix 6**
+**Appendix 7**
 - Export Price shock IRFs - Sign Restrictions, Minnesota prior - Decomposition of Net capital inflows
   [restrictions: + Export price level (country), + Real effective exchange rate, - Policy rate]
   [no restrictions: Real GDP, Net capital inflows, Foreign reserves, EMBI spread]
 
 **References**
+
 
 
 
